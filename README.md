@@ -1,5 +1,4 @@
 # Averages-calculator
-
 Calculator for calculating:
 -arithmetic mean
 - geometric mean
