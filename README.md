@@ -1,8 +1,10 @@
 # Averages-calculator
 Calculator for calculating:
+
 -arithmetic mean
 - geometric mean
-- mean square
+- square mean
 - harmonic mean
+
 -medians
 -modal
